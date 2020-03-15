@@ -48,7 +48,7 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. </small></p>
 
 # Machine learning, statistics, analytics
 
@@ -63,11 +63,13 @@ Project Organization
 | [HMMLearn](https://github.com/hmmlearn/hmmlearn) | Hidden Markov Models with scikit-learn compatible API |
 | [prophet](https://github.com/facebook/prophet) |  Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth |
 | [pyts](https://github.com/johannfaouzi/pyts) | Contains time series preprocessing, transformation as well as classification techniques |
+| [skits](https://github.com/EthanRosenthal/skits) | SciKit-learn-Inspired Time Series models
 | [sktime](https://github.com/alan-turing-institute/sktime) | A scikit-learn compatible library for learning with time series/panel data including time series classification/regression and (supervised/panel) forecasting |
 | [statsmodels](https://github.com/statsmodels/statsmodels) | Contains a submodule for classical time series models and hypothesis tests |
 | [stumpy](https://github.com/TDAmeritrade/stumpy) | Calculates matrix profile for time series subsequence all-pairs-similarity-search. Offers anomaly detection and pattern (or “motif”) discovery at the same time. |
 | [tsfresh](https://github.com/blue-yonder/tsfresh) | Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data |
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
+[Reference](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/README.md)
 
 # Data
 
@@ -75,6 +77,6 @@ Project Organization
 | ------- | ------ |
 | [pandas-datareader](https://github.com/pydata/pandas-datareader) | Pulls financial data from different sources (e.g. yahoo, google, Quandl) |
 
-### [ref](https://github.com/MaxBenChrist/awesome_time_series_in_python/blob/master/README.md)
+
 
 Please visit my [site](https://adataanalyst.com/) for more information.
