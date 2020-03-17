@@ -56,7 +56,7 @@ Project Organization
 
 | Project Name | Description |
 | ------- | ------ |
-| [arch](https://github.com/bashtage/arch) | Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics |
+| [arch](https://github.com/bashtage/arch) | Autoregressive Conditional Heteroskedasticity (ARCH) and other tools for financial econometrics 
 | [Featuretools](https://github.com/Featuretools/featuretools) | Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container |
 | [ffn](https://github.com/pmorissette/ffn) | financial function library |
 | [flint](https://github.com/twosigma/flint) | A Time Series Library for Apache Spark |
@@ -76,7 +76,5 @@ Project Organization
 | Project name | Description |
 | ------- | ------ |
 | [pandas-datareader](https://github.com/pydata/pandas-datareader) | Pulls financial data from different sources (e.g. yahoo, google, Quandl) |
-
-
 
 Please visit my [site](https://adataanalyst.com/) for more information.
